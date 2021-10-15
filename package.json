@@ -1,0 +1,28 @@
+{
+  "name": "oscillosco.pe",
+  "version": "1.0.0",
+  "description": "A JavaScript library to visualize audio.",
+  "main": "index.js",
+  "types": "js/oscilloscope.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instrumentbible/oscilloscope.js.git"
+  },
+  "author": "Josh Stovall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instrumentbible/oscilloscope.js/issues"
+  },
+  "homepage": "https://github.com/instrumentbible/oscilloscope.js#readme",
+  "keywords": [
+	  "music",
+	  "visual",
+	  "fourier",
+	  "oscilloscope",
+	  "acoustics",
+	  "webaudio"
+	]
+}
